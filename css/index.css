@@ -1,0 +1,30 @@
+body {
+    background-color: #bad2bc;
+}
+
+.col {
+    background-color: white;
+    border-radius: 20px;
+    height: 525px;
+    overflow-y: auto;
+}
+
+.nav-item a {
+    color: #8a0102;
+}
+
+.nav-link active {
+    background-color: #8a0102;
+}
+
+.media {
+    margin-left: 20px;
+}
+
+h1 {
+color: #8a0102;
+}
+
+h2 {
+    color: black;
+}
