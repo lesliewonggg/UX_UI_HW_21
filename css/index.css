@@ -5,16 +5,26 @@ body {
 .col {
     background-color: white;
     border-radius: 20px;
-    height: 525px;
+    height: 600px;
     overflow-y: auto;
 }
 
-.nav-item a {
-    color: #8a0102;
+
+.active {
+    color: white !important;
+    background-color: #8a0102 !important;
 }
 
-.nav-link active {
-    background-color: #8a0102;
+
+
+.btn-primary {
+    background-color: #8a0102 !important;
+    border: none;
+}
+
+.btn-lg {
+    background-color: #8a0102 !important;
+ 
 }
 
 .media {
@@ -22,9 +32,14 @@ body {
 }
 
 h1 {
-color: #8a0102;
+    color: #8a0102;
 }
 
 h2 {
     color: black;
 }
+
+a {
+    color: #8a0102 !important;
+}
+
